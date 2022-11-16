@@ -1,5 +1,5 @@
 # BugBountyPayloads
-Payloads para BugBounty
+Todo tipo de Payloads para BugBounty
 
 ## Listas de Bypassing
 
