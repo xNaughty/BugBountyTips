@@ -1,0 +1,2 @@
+# BugBountyPayloads
+Payloads para BugBounty
