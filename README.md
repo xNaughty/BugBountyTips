@@ -7,3 +7,4 @@ Todo tipo de Payloads para BugBounty
 
 ## Listas de Vulnerabilidades
 - [Arbitrary File Upload](https://github.com/xNaughty/BugBountyPayloads/blob/main/Arbitrary%20File%20Upload.md)
+- [Local File Inclusion](https://github.com/xNaughty/BugBountyPayloads/blob/main/Local%20File%20Inclusion.md)
