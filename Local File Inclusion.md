@@ -1,11 +1,11 @@
-## Local File Inclusion (LFI)
+# Local File Inclusion (LFI)
 
 La inclusión de archivos locales es una técnica de ataque en la que los atacantes engañan a una aplicación web para que ejecute o exponga archivos en un servidor web. 
 
 
 Se puede encontrar en cualquier extremo que incluya un archivo de un servidor web. Por ejemplo, /index.php?page=index.html
 
-## Explotando
+# Explotando
 
 1 - Carga útil básica
 
