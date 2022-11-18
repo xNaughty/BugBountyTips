@@ -23,7 +23,7 @@ Intenta este bypass
     
 3 - Intente agregar un punto (.), una barra inclinada (/) y un punto y coma (;) en la URL
 
-    http://target.com/admin => 403
+    http://host.com/admin => 403
     
 Intenta este bypass
 
