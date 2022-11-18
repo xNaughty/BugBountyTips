@@ -5,6 +5,7 @@ BugBounty (Bypasses, Payloads, y más)
 
 - [Bypass 2FA](https://github.com/xNaughty/BugBountyTips/blob/main/Bypass%202FA.md)
 - [Bypass Captcha](https://github.com/xNaughty/BugBountyTips/blob/main/Bypass%20Captcha.md)
+- [Bypass 403](https://github.com/xNaughty/BugBountyTips/blob/main/Bypass%20403.md)
 
 ## Listas de Vulnerabilidades
 - [Arbitrary File Upload](https://github.com/xNaughty/BugBountyTips/blob/main/Arbitrary%20File%20Upload.md)
