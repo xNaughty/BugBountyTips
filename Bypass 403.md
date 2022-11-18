@@ -44,7 +44,7 @@ Intenta este bypass
     
 5 - Intenta poner en mayúsculas la ruta en la url
 
-    http://target.com/admin
+    http://host.com/admin
     
 Intenta este bypass
 
