@@ -9,5 +9,5 @@ BugBounty (Bypasses, Payloads, y más)
 
 ## Listas de Vulnerabilidades
 - [Arbitrary File Upload](https://github.com/xNaughty/BugBountyTips/blob/main/Arbitrary%20File%20Upload.md)
-- [Local File Inclusion](https://github.com/xNaughty/BugBountyTips/blob/main/Local%20File%20Inclusion.md)
-- [Remote File Inclusion](https://github.com/xNaughty/BugBountyTips/blob/main/Remote%20File%20Inclusion.md)
+- [Local File Inclusion (LFI)](https://github.com/xNaughty/BugBountyTips/blob/main/Local%20File%20Inclusion.md)
+- [Remote File Inclusion (RFI)](https://github.com/xNaughty/BugBountyTips/blob/main/Remote%20File%20Inclusion.md)
