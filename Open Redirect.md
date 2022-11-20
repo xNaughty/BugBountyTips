@@ -55,14 +55,12 @@ A veces se puede encontrar en las páginas de inicio de sesión/registro/cierre 
 12 - Omita el filtro si solo verifica el nombre de dominio usando %23
 
     /?redir=host.com%23attacker.com
-    
-13 - Host/Split Unicode Normalization
 
-14 - Usando el símbolo ° para bypass
+13 - Usando el símbolo ° para bypass
 
     /?redir=host.com/°attacker.com
     
-15 - Omita el filtro si solo le permite controlar la ruta usando un null byte %0d o %0a
+14 - Omita el filtro si solo le permite controlar la ruta usando un null byte %0d o %0a
 
     /?redir=/%0d/attacker.com
     /?redir=/%0a/attacker.com
