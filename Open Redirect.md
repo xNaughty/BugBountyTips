@@ -64,3 +64,29 @@ A veces se puede encontrar en las páginas de inicio de sesión/registro/cierre 
 
     /?redir=/%0d/attacker.com
     /?redir=/%0a/attacker.com
+
+# Common injection parameters
+
+    /{payload}
+    ?next={payload}
+    ?url={payload}
+    ?target={payload}
+    ?rurl={payload}
+    ?dest={payload}
+    ?destination={payload}
+    ?redir={payload}
+    ?redirect_uri={payload}
+    ?redirect_url={payload}
+    ?redirect={payload}
+    /redirect/{payload}
+    /cgi-bin/redirect.cgi?{payload}
+    /out/{payload}
+    /out?{payload}
+    ?view={payload}
+    /login?to={payload}
+    ?image_url={payload}
+    ?go={payload}
+    ?return={payload}
+    ?returnTo={payload}
+    ?return_to={payload}
+    ?checkout_url={payload}
