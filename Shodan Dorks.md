@@ -1,4 +1,5 @@
 # Shodan Dorks
+Shodan es un motor de búsqueda que sirve para encontrar dispositivos conectados a internet, desde routers, APs, dispositivos IoT hasta cámaras de seguridad y mucho más
 
 ## Filtros de Shodan
 
