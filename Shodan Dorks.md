@@ -1,6 +1,6 @@
 # Shodan Dorks
 
-## Filtros básicos de Shodan
+## Filtros de Shodan
 
 ### City:
 Encuentra dispositivos en una ciudad en particular
