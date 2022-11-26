@@ -2,17 +2,17 @@
 
 ## Filtros de Shodan
 
-### City:
+### City
 Encuentra dispositivos en una ciudad en particular
 
     city:"buenos aires"
     
-### Country:
+### Country
 Encuentra dispositivos en un país en particular
 
     country:"AR"
     
-### Geo: 
+### Geo
 Encuentre dispositivos dando coordenadas geográficas
 
     geo:"56.913055,118.250862"
@@ -23,14 +23,14 @@ Encuentre dispositivos dando coordenadas geográficas
     city:buenos aires
     country:ar city:buenos aires
     
-### Hostname:    
+### Hostname  
 Encuentre dispositivos que coincidan con el nombre de host
 
     server: "gws" hostname:"google"
     hostname:example.com
     hostname:example.com,example.org
     
-### Net:
+### Net
 Encuentre dispositivos basados en una dirección IP o /x CIDR
 
     net:210.214.0.0/16
@@ -51,12 +51,12 @@ Encuentre dispositivos basados en el sistema operativo
     os:"windows server 2012"
     os:"linux 3.x"
     
-### Port:
+### Port
 Encuentre dispositivos basados en puertos abiertos
 
     ftp port:21
     
-### Before/after:
+### Before/after
 Encuentre dispositivos antes o después entre un tiempo determinado
 
     apache after:22/02/2009 before:14/3/2010
