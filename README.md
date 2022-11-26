@@ -13,3 +13,7 @@ BugBounty (Bypasses, Payloads, y más)
 - [Remote File Inclusion (RFI)](https://github.com/xNaughty/BugBountyTips/blob/main/Remote%20File%20Inclusion.md)
 - [Insecure Direct Object Reference (IDOR)](https://github.com/xNaughty/BugBountyTips/blob/main/Insecure%20Direct%20Object%20References.md)
 - [Open Redirect](https://github.com/xNaughty/BugBountyTips/blob/main/Open%20Redirect.md)
+
+## Dorks
+
+- [Shodan](https://github.com/xNaughty/BugBountyTips/blob/main/Shodan%20Dorks.md)
